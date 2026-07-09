@@ -1,2 +1,7 @@
 # Ignorar el virutal enviroment de py
 .venv
+
+# Ignorar caches generados
+
+__pycache__/
+*.pyc
