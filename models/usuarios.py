@@ -2,8 +2,7 @@
 Modelo: Usuario
 
 Representa un usuario en el sistema.
-No contiene lógica de ningún tipo más que la de formato permitido
-para las variables (validaciones básicas, no de negocio ni de BD).
+No contiene lógica de ningún tipo más que la de formato permitido para las variables.
 """
 
 # Imports
