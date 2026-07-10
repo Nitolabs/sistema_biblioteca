@@ -1,2 +1,3 @@
 # Libreria ocupada para manejo de la DB
 mysql-connector-python
+bcrypt
